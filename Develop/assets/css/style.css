@@ -152,9 +152,7 @@ header a {
     margin-left: 25px;
 }
 
-/* Search engine optimization */
-
-#search-engine-optimization h2 {
+.content-title {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -172,18 +170,6 @@ header a {
 
 #online-reputation-management img {
     max-height: 200px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* social media marketing section */
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* footer */

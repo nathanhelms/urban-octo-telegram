@@ -133,16 +133,6 @@ header a {
 }
 
 .float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.float-left-text {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -151,11 +141,18 @@ header a {
     color: #ffffff;
 }
 
-/* Search engine optimization */
-
-#search-engine-optimization img {
+.float-left img {
+    float: left;
+    margin-right: 25px;
     max-height: 200px;
 }
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Search engine optimization */
 
 #search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -183,12 +180,6 @@ header a {
 }
 
 /* social media marketing section */
-
-
-
-#social-media-marketing img {
-    max-height: 200px;
-}
 
 #social-media-marketing h2 {
     margin-bottom: 20px;

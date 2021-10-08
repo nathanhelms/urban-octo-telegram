@@ -52,15 +52,6 @@ header a {
     text-decoration: none;
 }
 
-/* footer */
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
 footer h2 {
     font-size: 20px;
 }
@@ -146,3 +137,11 @@ footer h2 {
     font-size: 36px;
 }
 
+/* footer */
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}

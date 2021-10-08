@@ -2,7 +2,7 @@
 
 ## Description
 
-Horiseon webpage for 
+Webpage for marketing organization Horiseon.
 
 ## Installation
 
@@ -14,8 +14,8 @@ Select the navigation links at the top of the page (Search Engine Optimization, 
 
 ## Credits
 
-Xandromus (https://github.com/Xandromus/Xandromus)
-nathanhelms (https://github.com/nathanhelms)
+- Xandromus (https://github.com/Xandromus/Xandromus)
+- nathanhelms (https://github.com/nathanhelms)
 
 ## License
 

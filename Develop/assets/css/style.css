@@ -148,18 +148,6 @@ header a {
 }
 
 .float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content-title {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* online reputation management section */
-
-#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -168,8 +156,15 @@ header a {
     color: #ffffff;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
+.float-right img {
+    float: right;
+    margin-left: 25px;
+    max-height: 200px
+}
+
+.content-title {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 /* footer */

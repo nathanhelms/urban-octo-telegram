@@ -2,11 +2,7 @@
 
 ## Description
 
-Webpage for marketing organization Horiseon.
-
-## Installation
-
-Visit https://nathanhelms.github.io/urban-octo-telegram/ to access the Horiseon webpage. 
+Webpage for marketing organization Horiseon. Visit https://nathanhelms.github.io/urban-octo-telegram/ to access the Horiseon webpage. 
 
 ## Usage
 
